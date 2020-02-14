@@ -2,9 +2,6 @@
 
 Hi, this is a Vue plugin to add youtube embed videos to your web project and control them.
 
-It is very handy to create a custom player based on youtube videos, checkout this website for example :
-https://foreignrap.com
-
 ## Installation
 
 First add it to your project via yarn:
